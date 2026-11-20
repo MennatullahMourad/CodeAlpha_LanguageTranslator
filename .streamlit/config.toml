@@ -1,0 +1,23 @@
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "light"
+primaryColor = "#0A4174"
+backgroundColor = "#EEF5F9"
+secondaryBackgroundColor = "#F6FAFC"
+textColor = "#001D39"
+borderColor = "#C9DDEA"
+showWidgetBorder = true
+linkColor = "#0A4174"
+baseRadius = "0.75rem"
+buttonRadius = "full"
+font = "Figtree:https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap"
+headingFont = "Bricolage Grotesque:https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&display=swap"
+
+[theme.sidebar]
+backgroundColor = "#001D39"
+secondaryBackgroundColor = "#0A4174"
+textColor = "#DCEAF3"
+primaryColor = "#7BBDE8"
+borderColor = "#1C4A73"
